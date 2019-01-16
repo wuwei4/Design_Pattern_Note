@@ -4,6 +4,7 @@ ConcreteProductB::ConcreteProductB()
 {
 
 }
+
 ConcreteProductB::~ConcreteProductB()
 {
 

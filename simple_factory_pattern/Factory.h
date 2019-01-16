@@ -7,7 +7,7 @@ class Factory
 {
 public :
     Factory();
-    virtual ~Factory();
+    virtual ~Factory() = 0;
     static Product *CreatProduct(char ProNam);
 };
 #endif

@@ -6,10 +6,6 @@ Factory::Factory()
 {
 
 }
-Factory::~Factory()
-{
-
-}
 
 Product *Factory::CreatProduct(char ProNam)
 {
